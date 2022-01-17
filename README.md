@@ -1,7 +1,7 @@
 # myWebpack
 #
 # Установка: 
-# 1) Клонировать командой git clone
+# 1) git clone https://github.com/YaroslavKuzyk/myWebpack.git
 # 2) npm install
 #
 #
@@ -9,7 +9,8 @@
 # 1) В режиме разработки - npm run start
 # 2) Компиляция в режиме разработки - npm run dev
 # 3) Компиляция в продакшн режиме - npm run build
-
+#
+#
 # Создание *.html файла:
 # 1) Создать сам файл Name.html
 # 2) В файле index.js -  import  '../Name.html';
